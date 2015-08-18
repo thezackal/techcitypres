@@ -1,3 +1,5 @@
+// This is JavaScript (JS) code to handle some basic communication with the server.
+
 // 1. When someone submits a form:
 jQuery("form").submit(function(event) {
     // 2. Perform an AJAX request ($ is a shortcut for jQuery):
