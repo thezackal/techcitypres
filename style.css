@@ -18,3 +18,12 @@ section {
   color: yellow;
   background: rgba(11, 26, 51, 0.6);
 }
+
+input {
+  padding: 2px;
+  color: black;
+  border-radius: 8px;
+  width: 100%;
+  text-align: center;
+
+} 
