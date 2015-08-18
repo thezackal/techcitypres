@@ -5,10 +5,13 @@ Starting point files :
 
 ##HTML
 
+- index.html
+- helper.html 
 
 
 ##CSS
 
+- style.css
 
 ##other
 
