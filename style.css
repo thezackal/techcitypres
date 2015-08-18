@@ -6,7 +6,7 @@ body {
   background-repeat: no-repeat;
   background-position: center 0px;
     /* url(http://subtlepatterns.com/patterns/outlets.png);*/
-  font-size: 1em;
+  font-size: 1.7em;
 }
 
 section {
@@ -15,7 +15,7 @@ section {
   margin: 10px auto;
   width: 80%;
   text-align: center;
-  color: yellow;
+  color: white;
   background: rgba(11, 26, 51, 0.6);
 }
 
