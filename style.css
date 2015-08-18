@@ -1,0 +1,20 @@
+/* stylesheets are used for the design. We assign design rules for the HTML elements */
+
+body {
+  background-color: black;
+  background-image: url(http://h.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2014/04/3028726-poster-p-1-nycs-startups-adapt-to-the-post-bloomberg-city.jpg);
+  background-repeat: no-repeat;
+  background-position: center 0px;
+    /* url(http://subtlepatterns.com/patterns/outlets.png);*/
+  font-size: 1em;
+}
+
+section {
+  border-radius: 12px;
+  padding: 8px;
+  margin: 10px auto;
+  width: 80%;
+  text-align: center;
+  color: yellow;
+  background: rgba(11, 26, 51, 0.6);
+}
